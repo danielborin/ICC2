@@ -36,7 +36,7 @@ html:
   extra_footer              : ""  # Will be displayed underneath the footer.
   google_analytics_id       : ""  # A GA id that can be used to track book views.
   home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
-  baseurl                   : "https://github.com/danielborin/ICC2"  # The base URL where your book will be hosted.
+  baseurl                   : "https://danielborin.github.io/ICC2/"  # The base URL where your book will be hosted.
 
 #######################################################################################
 # LaTeX-specific settings
