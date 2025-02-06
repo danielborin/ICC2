@@ -1,6 +1,6 @@
 # Book settings
-title                       : Argo Online School
-author                      : Euro Argo
+title                       : Introdução à Computação Científica 
+author                      : Daniel Borin
 copyright                   : 2020-2024
 logo                        : ./images/logoAoS.png
 exclude_patterns            : [Prueba*.ipynb, Info.ipynb, README.md]
